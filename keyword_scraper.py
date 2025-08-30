@@ -38,3 +38,5 @@ if __name__ == "__main__":
     print("Sample results:")
     for row in data[:5]:
         print(row)
+
+python keyword_scraper.py "best hotels in Nairobi" --limit 5 --output hotels.csv
