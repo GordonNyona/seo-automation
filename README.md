@@ -40,3 +40,11 @@ This will output basic SEO audit information such as:
 git clone https://github.com/YOUR_USERNAME/seo-tools.git
 cd seo-tools
 pip install -r requirements.txt
+## 🚀 Usage
+
+Clone the repository and navigate into it:
+
+```bash
+git clone https://github.com/GordonNyona/seo-automation.git
+cd seo-automation
+
